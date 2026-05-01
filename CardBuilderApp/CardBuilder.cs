@@ -73,7 +73,7 @@ namespace CardBuilderApp
                 foreach (Card card in cards)
                 {
                     RectangleF title_bounding_box = new RectangleF(x_index * 750 + 10, y_index * 1050 + 10, 730, 200);
-                    RectangleF text_bounding_box = new RectangleF(x_index * 750 + 10, y_index * 1050 + 210, 730, 800);
+                    RectangleF text_bounding_box = new RectangleF(x_index * 750 + 10, y_index * 1050 + 210, 730, 830);
                     
 
 
